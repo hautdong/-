@@ -1,0 +1,11 @@
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.csproj.AssemblyReference.cache
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.csproj.SuggestedBindingRedirects.cache
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.Form1.resources
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.Properties.Resources.resources
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.csproj.GenerateResource.cache
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.csproj.CoreCompileInputs.cache
+C:\Users\hcd\Desktop\satellite\staPos\bin\Debug\staPos.exe.config
+C:\Users\hcd\Desktop\satellite\staPos\bin\Debug\staPos.exe
+C:\Users\hcd\Desktop\satellite\staPos\bin\Debug\staPos.pdb
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.exe
+C:\Users\hcd\Desktop\satellite\staPos\obj\Debug\staPos.pdb
